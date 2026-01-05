@@ -8,6 +8,20 @@ A curated list of resources to help you prepare for software engineering intervi
 
 ## Table of Contents
 
+### 🧠 Core Interview Prep
+- [Data Structures & Algorithms (DSA)](#data-structures--algorithms-dsa)
+- [Algorithms](#algorithms)
+- [Coding Patterns](#coding-patterns)
+- [Common Mistakes](#common-mistakes)
+
+### 🧩 System & Design
+- [System Design](#system-design)
+- [Object-Oriented Design (OOD)](#object-oriented-design-ood)
+
+### 💼 Behavioral & Real Questions
+- [Behavioral Interviews](#behavioral-interviews)
+- [Real Interview Questions](#real-interview-questions)
+
 - [📊 Data Structures & Algorithms (DSA)](#-data-structures--algorithms-dsa)
 - [🏗️ System Design](#️-system-design)
 - [🎯 Object-Oriented Design (OOD)](#-object-oriented-design-ood)
