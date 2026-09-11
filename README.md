@@ -59,6 +59,7 @@ This is the most critical part of the technical interview.
 - [Educative](https://www.educative.io/): Offers interactive courses, including the popular "Grokking the Coding Interview: Patterns for Coding Questions".
 - [Udemy: Master the Coding Interview: Big Tech (FAANG) Interviews](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/): A comprehensive course covering data structures, algorithms, and interview strategies.
 - [GeeksforGeeks DSA Self-Paced Course](https://practice.geeksforgeeks.org/courses/dsa-self-paced): A course covering the fundamentals of data structures and algorithms.
+- [InterviewLegend](https://interviewlegend.com) - company-specific FAANG and big-tech interview prep (coding, system design, behavioral)
 
 ## System Design
 
