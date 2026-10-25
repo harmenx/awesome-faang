@@ -8,7 +8,7 @@ A curated collection of tutorials, guides, problem sets, and videos to master da
 
 - [LeetCode](https://leetcode.com/) – Solve problems by data structure (e.g., arrays, trees, graphs).  
 - [HackerRank](https://www.hackerrank.com/domains/data-structures) – Structured practice by topic.  
-- [GeeksforGeeks Data Structures](https://www.geeksforgeeks.org/data-structures/) – Comprehensive guides and examples.  
+- [GeeksforGeeks Data Structures](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) – Comprehensive guides and examples.  
 - [Codeforces](https://codeforces.com/) – Competitive programming for advanced DS practice.  
 
 ---
@@ -16,45 +16,45 @@ A curated collection of tutorials, guides, problem sets, and videos to master da
 ## 2. **Core Data Structures**
 
 ### **Arrays**
-- [Arrays Overview (GeeksforGeeks)](https://www.geeksforgeeks.org/array-data-structure/)  
+- [Arrays Overview (GeeksforGeeks)](https://www.geeksforgeeks.org/dsa/array-data-structure-guide/)  
 - [NeetCode: Arrays](https://neetcode.io/)  
 - Typical Interview Problems: Two pointers, sliding window, subarrays, prefix sums.
 
 ### **Linked Lists**
-- [Singly & Doubly Linked Lists](https://www.geeksforgeeks.org/data-structures/linked-list/)  
+- [Singly & Doubly Linked Lists](https://www.geeksforgeeks.org/dsa/linked-list-data-structure/)  
 - [Common Problems on LeetCode](https://leetcode.com/tag/linked-list/)  
 - Focus on: Reversal, cycle detection, merging, kth from end.
 
 ### **Stacks & Queues**
-- [Stack & Queue Concepts](https://www.geeksforgeeks.org/stack-data-structure/)  
-- [Queue Variants](https://www.geeksforgeeks.org/queue-data-structure/)  
+- [Stack & Queue Concepts](https://www.geeksforgeeks.org/dsa/stack-data-structure/)  
+- [Queue Variants](https://www.geeksforgeeks.org/dsa/queue-data-structure/)  
 - Practice: Min-stack, max-stack, circular queue, monotonic stack.
 
 ### **Hash Tables / Maps / Sets**
-- [Hash Table Basics](https://www.geeksforgeeks.org/hashing-data-structure/)  
+- [Hash Table Basics](https://www.geeksforgeeks.org/dsa/hashing-data-structure/)  
 - Common interview problems: Frequency counters, sliding window, two-sum.
 
 ### **Heaps / Priority Queues**
-- [Heap Data Structure](https://www.geeksforgeeks.org/heap-data-structure/)  
+- [Heap Data Structure](https://www.geeksforgeeks.org/dsa/heap-data-structure/)  
 - Practice: Top K elements, median maintenance, interval problems.
 
 ### **Trees**
-- [Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)  
-- [Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)  
+- [Binary Tree](https://www.geeksforgeeks.org/dsa/binary-tree-data-structure/)  
+- [Binary Search Tree](https://www.geeksforgeeks.org/dsa/binary-search-tree-data-structure/)  
 - [Segment Trees & Fenwick Trees](https://cp-algorithms.com/data_structures/fenwick.html)  
 - Focus on: Traversals, LCA, balanced BSTs, recursive and iterative approaches.
 
 ### **Graphs**
-- [Graph Basics & Representations](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)  
+- [Graph Basics & Representations](https://www.geeksforgeeks.org/dsa/graph-data-structure-and-algorithms/)  
 - Important algorithms: BFS, DFS, Dijkstra, Bellman-Ford, Topological sort, Union-Find.  
 - Practice: Connected components, shortest path, cycle detection.
 
 ### **Tries**
-- [Trie Data Structure](https://www.geeksforgeeks.org/trie-insert-and-search/)  
+- [Trie Data Structure](https://www.geeksforgeeks.org/dsa/trie-insert-and-search/)  
 - Use cases: Prefix search, autocomplete, word search problems.
 
 ### **Advanced / Miscellaneous**
-- [Disjoint Set (Union-Find)](https://www.geeksforgeeks.org/disjoint-set-data-structures/)  
+- [Disjoint Set (Union-Find)](https://www.geeksforgeeks.org/dsa/disjoint-set-data-structures/)  
 - [Interval Trees](https://cp-algorithms.com/data_structures/segment_tree.html)  
 - [LRU Cache Implementation](https://leetcode.com/problems/lru-cache/)  
 
@@ -69,7 +69,7 @@ A curated collection of tutorials, guides, problem sets, and videos to master da
 
 ## 4. **YouTube Channels & Playlists**
 
-- [Abdul Bari – Data Structures](https://www.youtube.com/user/abdulbarikcs)  
+- [Abdul Bari – Data Structures](https://www.youtube.com/@abdul_bari)  
 - [William Fiset – Data Structures](https://www.youtube.com/c/WilliamFiset-videos)  
 - [NeetCode – Patterns](https://www.youtube.com/c/NeetCode)  
 - [Tushar Roy – Data Structures](https://www.youtube.com/user/tusharroy2525)  
@@ -88,8 +88,7 @@ A curated collection of tutorials, guides, problem sets, and videos to master da
 ## 6. **Practice Problems by Data Structure**
 
 - [LeetCode Explore](https://leetcode.com/explore/) – DS-specific problem sets.  
-- [Blind 75](https://leetcode.com/list/gnqwr3/) – Core DS + algorithm problems for FAANG prep.  
-- [GeeksforGeeks Practice](https://practice.geeksforgeeks.org/) – Topic-wise problems.
+- [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) – Core DS + algorithm problems for FAANG prep.  
 
 ---
 

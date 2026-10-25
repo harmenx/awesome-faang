@@ -22,7 +22,7 @@ Core topics to master:
 ## 2. **Key Components & Concepts**
 
 ### **Load Balancing**
-- [Load Balancing Basics](https://www.nginx.com/resources/glossary/load-balancing/)  
+- [Load Balancing Basics](https://www.f5.com/glossary/load-balancer)  
 - L4 vs L7 load balancers  
 - Round-robin, least connections, consistent hashing
 
@@ -32,12 +32,11 @@ Core topics to master:
 - Redis, Memcached, CDN caching
 
 ### **Databases**
-- [SQL vs NoSQL](https://www.mongodb.com/nosql-explained)  
+- [SQL vs NoSQL](https://www.mongodb.com/resources/basics/databases/nosql-explained)  
 - ACID vs BASE  
 - Indexing, sharding, replication
 
 ### **Messaging & Streaming**
-- [Message Queues Explained](https://www.cloudamqp.com/blog/message-queues-explained.html)  
 - Kafka vs RabbitMQ vs SQS  
 - Event-driven architectures
 
@@ -62,7 +61,7 @@ Practice designing these systems end-to-end:
 - File Storage (Google Drive / Dropbox)
 
 Good reference:
-- [System Design Interview Questions (GFG)](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
+- [System Design Interview Questions (GFG)](https://www.geeksforgeeks.org/system-design/top-10-system-design-interview-questions-and-answers/)
 
 ---
 
@@ -88,9 +87,6 @@ Use a repeatable structure in interviews:
 4. Deep dive into critical components  
 5. Identify bottlenecks & trade-offs  
 6. Discuss optimizations & failure handling
-
-Reference:
-- [How to Crack the System Design Interview](https://www.educative.io/blog/system-design-interview)
 
 ---
 
