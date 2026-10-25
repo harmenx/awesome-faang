@@ -16,31 +16,23 @@ A curated list of tutorials, guides, problem sets, and videos to master algorith
 ## 2. **Concepts & Tutorials**
 
 - **Arrays & Strings**  
-  - [GeeksforGeeks: Array Data Structure](https://www.geeksforgeeks.org/array-data-structure/)  
+  - [GeeksforGeeks: Array Data Structure](https://www.geeksforgeeks.org/dsa/array-data-structure-guide/)  
   - [Neetcode: Arrays & Strings](https://neetcode.io/)  
 
 - **Linked Lists**  
-  - [GeeksforGeeks: Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)  
-  - [LeetCode Patterns: Linked List](https://leetcode.com/discuss/general-discussion/460599/linked-list-patterns)  
-
-- **Stacks & Queues**  
-  - [Stack & Queue Cheatsheet](https://www.interviewkickstart.com/learn/stack-queue-data-structure)  
+  - [GeeksforGeeks: Linked List](https://www.geeksforgeeks.org/dsa/linked-list-data-structure/)  
 
 - **Trees & Graphs**  
-  - [Binary Trees](https://www.geeksforgeeks.org/binary-tree-data-structure/)  
-  - [Graphs](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)  
+  - [Binary Trees](https://www.geeksforgeeks.org/dsa/binary-tree-data-structure/)  
+  - [Graphs](https://www.geeksforgeeks.org/dsa/graph-data-structure-and-algorithms/)  
   - [Neetcode: Trees & Graphs](https://neetcode.io/)  
 
 - **Dynamic Programming (DP)**  
   - [Dynamic Programming Patterns (Neetcode)](https://neetcode.io/)  
-  - [Top 50 DP Problems](https://leetcode.com/discuss/general-discussion/460599/dynamic-programming-patterns)  
-
-- **Recursion & Backtracking**  
-  - [Backtracking Patterns](https://leetcode.com/discuss/general-discussion/460599/backtracking-patterns)  
+  - [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)  
 
 - **Sorting & Searching**  
-  - [Sorting Algorithms Overview](https://www.geeksforgeeks.org/sorting-algorithms/)  
-  - [Binary Search Patterns](https://leetcode.com/discuss/general-discussion/458695/Binary-Search-Patterns)  
+  - [Sorting Algorithms Overview](https://www.geeksforgeeks.org/dsa/sorting-algorithms/)  
 
 ---
 
@@ -48,13 +40,13 @@ A curated list of tutorials, guides, problem sets, and videos to master algorith
 
 - [Big-O Complexity Cheatsheet](https://www.bigocheatsheet.com/)  
 - [Neetcode Cheatsheet](https://neetcode.io/) – Patterns for arrays, graphs, DP, and more.  
-- [GeeksforGeeks Algorithm Cheatsheet](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)  
+- [GeeksforGeeks DSA Tutorial](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)  
 
 ---
 
 ## 4. **YouTube Channels & Playlists**
 
-- [Abdul Bari – Algorithms & Data Structures](https://www.youtube.com/user/abdulbarikcs) – Clear explanations of fundamentals.  
+- [Abdul Bari – Algorithms & Data Structures](https://www.youtube.com/@abdul_bari) – Clear explanations of fundamentals.  
 - [William Fiset – Graph Algorithms](https://www.youtube.com/c/WilliamFiset-videos)  
 - [NeetCode](https://www.youtube.com/c/NeetCode) – Patterns and solutions for FAANG-style problems.  
 - [Tushar Roy – Data Structures & Algorithms](https://www.youtube.com/user/tusharroy2525)  
@@ -73,7 +65,7 @@ A curated list of tutorials, guides, problem sets, and videos to master algorith
 ## 6. **Problem Patterns & Strategies**
 
 - [Neetcode Patterns](https://neetcode.io/) – Common coding interview patterns: Two pointers, sliding window, DFS/BFS, binary search, DP.  
-- [Blind 75](https://leetcode.com/list/gnqwr3/) – High-yield curated list of 75 problems often asked at FAANG.  
+- [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) – High-yield curated list of 75 problems often asked at FAANG.  
 - [LeetCode Explore](https://leetcode.com/explore/) – Structured topic-based challenges for algorithm practice.  
 
 ---
