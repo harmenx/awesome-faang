@@ -47,6 +47,7 @@ Software engineering interview preparation for large technology companies.
 
 - [Behavioral Interview Handbook](https://www.techinterviewhandbook.org/behavioral-interview) - How software engineers prepare stories for behavioral rounds.
 - [Why the Behavioral Matters](https://www.hellointerview.com/learn/behavioral/course/why-the-behavioral-matters) - What interviewers score in behavioral rounds, written by a former Meta hiring chair.
+- [Interview Answer Timer](https://makeinterview.com/en/tools/interview-answer-timer) - Free two-take timer for rehearsing behavioral answers and manually checking which evidence each attempt retained.
 
 ## Mock Interviews
 
