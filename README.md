@@ -4,6 +4,8 @@
 
 A typical loop at Google, Meta, Amazon, Apple, Netflix, or Microsoft has an online assessment or phone screen, then several coding rounds, a system design round for mid-level and senior roles, and a behavioral round. Each section below opens with a note on when it matters and how to use it, so you can plan your preparation rather than collect links.
 
+Alongside the list are [original guides](guides/README.md): a [study plan](guides/study-plan.md), [twenty coding patterns with tested Python templates](guides/coding-patterns.md), a [system design playbook](guides/system-design.md), a [behavioral story bank](guides/behavioral.md), and [company-by-company notes](guides/companies.md).
+
 ## Contents
 
 - [Start Here](#start-here)
@@ -196,12 +198,12 @@ Please read [contributing.md](contributing.md) before opening a pull request.
 
 ## Footnotes
 
-Longer notes in this repository:
+The guides in this repository:
 
-- Algorithm references are in [ALGORITHMS.md](ALGORITHMS.md).
-- Data structure references are in [DATA_STRUCTURES.md](DATA_STRUCTURES.md).
-- Pattern checklists are in [DSA_PATTERNS.md](DSA_PATTERNS.md) and [CODING_PATTERNS.md](CODING_PATTERNS.md).
-- System design notes are in [SYSTEM_DESIGN.md](SYSTEM_DESIGN.md).
-- Behavioral notes are in [BEHAVIORAL.md](BEHAVIORAL.md) and [REAL_INTERVIEW_QUESTIONS.md](REAL_INTERVIEW_QUESTIONS.md).
-- Company round notes are in [COMPANY_BREAKDOWN.md](COMPANY_BREAKDOWN.md).
-- Frequent failure modes are in [COMMON_MISTAKES.md](COMMON_MISTAKES.md).
+- [Study plan](guides/study-plan.md) has four-, eight-, and twelve-week plans.
+- [Fundamentals](guides/fundamentals.md) has complexity tables and the Python standard library for interviews.
+- [Coding patterns](guides/coding-patterns.md) has twenty patterns with tested templates and practice problems.
+- [System design](guides/system-design.md) has a 45-minute plan, estimates, and building blocks.
+- [Behavioral](guides/behavioral.md) has a story bank, a question bank, and Amazon's Leadership Principles.
+- [Company guides](guides/companies.md) cover how each large company runs its loop.
+- [Interview day](guides/interview-day.md) covers running a round, common mistakes, and a checklist.

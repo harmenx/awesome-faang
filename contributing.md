@@ -22,7 +22,20 @@ If you would rather not edit the readme yourself, use the **Suggest a resource**
 
 ## Checks
 
-Every pull request runs [awesome-lint](https://github.com/sindresorhus/awesome-lint) and a link check across all Markdown files. Fix anything they report before asking for a review. A scheduled link check also runs every Monday and opens an issue when a link breaks.
+Every pull request runs [awesome-lint](https://github.com/sindresorhus/awesome-lint), a link check across all Markdown files, and every code example in the guides. Fix anything they report before asking for a review. A scheduled link check also runs every Monday and opens an issue when a link breaks.
+
+## Guides
+
+The pages in `guides/` are original, practical writing that goes with the list. Improvements are welcome: corrections, clearer explanations, better practice problems, or a missing pattern.
+
+- Keep the plain, direct style of the existing pages.
+- Every Python code block must run on its own and prove itself with `assert` statements. Run `python3 scripts/check_code_blocks.py` before opening a pull request.
+- Link practice problems as `[Number. Title](https://leetcode.com/problems/slug/)` and avoid premium problems unless marked.
+- Do not turn a guide into a second copy of the main list. Link to the list instead.
+
+## Checks
+
+Every pull request runs [awesome-lint](https://github.com/sindresorhus/awesome-lint), a link check across all Markdown files, and every code example in the guides. Fix anything they report before asking for a review. A scheduled link check also runs every Monday and opens an issue when a link breaks.
 
 ## Guide pages
 

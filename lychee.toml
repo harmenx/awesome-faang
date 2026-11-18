@@ -1,4 +1,4 @@
-# Link checker settings for the readme, contributing guide, and guide pages.
+# Link checker settings for the readme, contributing guide, and guides.
 
 max_concurrency = 16
 max_retries = 3
