@@ -1,0 +1,65 @@
+name: Suggest a resource
+description: Propose a tool, platform, guide, or community for the list.
+labels: [suggestion]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: NeetCode
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: The canonical page, with no affiliate or tracking parameters.
+      placeholder: https://neetcode.io
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Start Here
+        - Coding Practice
+        - Coding Patterns and Courses
+        - Data Structures and Algorithms
+        - Online Assessments
+        - System Design
+        - Low-Level Design
+        - Engineering Blogs and Papers
+        - Behavioral Interviews
+        - Role-Specific Preparation
+        - Mock Interviews
+        - Company Preparation
+        - Resumes and Applications
+        - Offers and Negotiation
+        - Books
+        - Video Channels
+        - A new section
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: One-sentence description
+      placeholder: Video walkthroughs and a topic roadmap for coding interviews.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs
+      description: How does it help someone prepare for interviews at large technology companies?
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I am not affiliated with it, or I have said how I am below.
+        - label: It is not already in the list.
+          required: true

@@ -1,7 +1,8 @@
 # Company-Specific Interview Breakdown
 
 > A practical guide to FAANG (and top tech) interview patterns, rounds, and preparation strategies.  
-> Includes coding, system design, behavioral, and role-level insights.
+> Includes coding, system design, behavioral, and role-level insights.  
+> Interview formats change often. Confirm the rounds and their format with your recruiter before you plan around this page.
 
 ---
 
@@ -22,6 +23,7 @@
 **Rounds:**  
 - Phone / online coding (1–2 rounds)  
 - Onsite: 4–5 rounds (coding + system design + behavioral + optional role-specific)  
+- Since 2025, Google includes at least one in-person round for engineering candidates  
 
 **Coding Focus:**  
 - Arrays, Strings, Trees, Graphs, DP  
@@ -33,8 +35,8 @@
 - Large-scale design, scalability, trade-offs, CAP theorem  
 
 **Behavioral:**  
-- Leadership principles + teamwork  
-- STAR format preferred  
+- "Googleyness and leadership": collaboration, handling ambiguity, and doing the right thing for users  
+- STAR format works well  
 
 **Tips:**  
 - Practice **LeetCode Blind 75 + Google-specific tags**  
@@ -52,6 +54,7 @@
 **Coding Focus:**  
 - Linked lists, trees, graphs, hashmaps  
 - Emphasis on **speed + correctness**  
+- Since 2025, Meta has piloted an AI-assisted coding round for some candidates; your recruiter will say which rounds allow AI tools  
 - Expect **medium-heavy difficulty**  
 
 **System Design:**  
@@ -88,7 +91,7 @@
 - Expect **behavioral-heavy interviews**  
 
 **Tips:**  
-- Learn **Amazon’s 14 leadership principles** inside out  
+- Learn **Amazon’s 16 Leadership Principles** inside out  
 - Provide specific examples with metrics  
 - Be structured in coding: explain edge cases  
 
@@ -153,7 +156,7 @@
 - Medium difficulty, balanced correctness & efficiency  
 
 **System Design:**  
-- L5+  
+- Mostly for senior roles  
 - Enterprise-scale systems; focus on reliability & scalability  
 
 **Behavioral:**  
