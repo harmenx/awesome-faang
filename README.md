@@ -4,7 +4,7 @@
 
 A typical loop at Google, Meta, Amazon, Apple, Netflix, or Microsoft has an online assessment or phone screen, then several coding rounds, a system design round for mid-level and senior roles, and a behavioral round. Each section below opens with a note on when it matters and how to use it, so you can plan your preparation rather than collect links.
 
-Alongside the list are [original guides](guides/README.md): a [study plan](guides/study-plan.md), [twenty coding patterns with tested Python templates](guides/coding-patterns.md), a [system design playbook](guides/system-design.md), a [behavioral story bank](guides/behavioral.md), and [company-by-company notes](guides/companies.md).
+Alongside the list are [original guides](guides/README.md): a study plan, twenty coding patterns with tested Python templates, a system design playbook, a behavioral story bank, and company-by-company notes. Each is linked in the [footnotes](#footnotes).
 
 ## Contents
 
@@ -200,10 +200,10 @@ Please read [contributing.md](contributing.md) before opening a pull request.
 
 The guides in this repository:
 
-- [Study plan](guides/study-plan.md) has four-, eight-, and twelve-week plans.
-- [Fundamentals](guides/fundamentals.md) has complexity tables and the Python standard library for interviews.
-- [Coding patterns](guides/coding-patterns.md) has twenty patterns with tested templates and practice problems.
-- [System design](guides/system-design.md) has a 45-minute plan, estimates, and building blocks.
-- [Behavioral](guides/behavioral.md) has a story bank, a question bank, and Amazon's Leadership Principles.
-- [Company guides](guides/companies.md) cover how each large company runs its loop.
-- [Interview day](guides/interview-day.md) covers running a round, common mistakes, and a checklist.
+- Four-, eight-, and twelve-week plans are in the [study plan](guides/study-plan.md).
+- Complexity tables and the Python standard library for interviews are in [fundamentals](guides/fundamentals.md).
+- Twenty patterns with tested templates and practice problems are in [coding patterns](guides/coding-patterns.md).
+- A 45-minute plan, estimates, and building blocks are in [system design](guides/system-design.md).
+- A story bank, a question bank, and Amazon's Leadership Principles are in [behavioral](guides/behavioral.md).
+- How each large company runs its loop is in the [company guides](guides/companies.md).
+- Running a round, common mistakes, and a checklist are in [interview day](guides/interview-day.md).
