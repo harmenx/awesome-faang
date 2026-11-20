@@ -38,6 +38,7 @@ Software engineering interview preparation for large technology companies.
 - [Aced System Design Guide](https://www.aced.io/blog/system-design-interview-guide) - Preparation guide for system design interviews, updated in 2026.
 - [Google SRE Book](https://sre.google/sre-book/table-of-contents) - Free book on building and operating reliable production systems.
 - [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected) - Official framework for secure, reliable, and efficient cloud systems.
+- [System Designer](https://systemdesigner.io) - Free, open-source browser game for practising system design through architecture building, traffic simulation, and debriefs.
 
 ## Low-Level Design
 
